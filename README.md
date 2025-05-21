@@ -9,7 +9,7 @@ Biodata minimalis dengan warna gelap.mengunakan framework simplecss yang di modi
 1.  Clone repositori ini:
 
     ```bash
-    git clone [URL repositori Anda]
+    git clone [URL repositori]
     ```
 2.  Buka file `index.html` di browser web Anda.
 
